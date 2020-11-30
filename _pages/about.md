@@ -25,7 +25,6 @@ Current machine learning models are dominated by Deep Neural Networks, because t
 4. Lack of domain awareness: neural models lack the ability to bias the learner with commonsense knowledge about the task or environment.
 
 My research focuses on addressing these four drawbacks simultaneously, and provides a promising path to discovering new algorithmic techniques leading to Trustworthy Artificial Intelligence.
-[link](#teaching)
 
 
 
