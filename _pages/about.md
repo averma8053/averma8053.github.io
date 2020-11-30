@@ -37,30 +37,28 @@ Greg Anderson, Abhinav Verma, [Isil Dillig](https://www.cs.utexas.edu/~isil/), [
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2009.12612)
 
-1. *Learning Differentiable Programs with Admissible Neural Heuristics*\
+2. *Learning Differentiable Programs with Admissible Neural Heuristics*\
 Ameesh Shah, Eric Zhan, [Jennifer J Sun](http://jenjsun.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2007.12101)
 
-{% include googleDrivePlayer.html id=page.driveId3 %}
-2. *Imitation-Projected Programmatic Reinforcement Learning*\
+3. *Imitation-Projected Programmatic Reinforcement Learning* {% include googleDrivePlayer.html id=page.driveId3 %}
+\
 Abhinav Verma, [Hoang M. Le](http://hoangle.info), [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2019.\
 [ArXiv](https://arxiv.org/abs/1907.05431)  &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1BRROPVoPmygeVGgj9KcO25ZhPRsHvtLC/view?usp=sharing)
 
-{% include googleDrivePlayer.html id=page.driveId2 %}
-3. *Control Regularization for Reduced Variance Reinforcement Learning*\
+4. *Control Regularization for Reduced Variance Reinforcement Learning* {% include googleDrivePlayer.html id=page.driveId2 %}\
 [Richard Cheng](https://rcheng805.github.io), Abhinav Verma, [Gabor Orosz](http://www-personal.umich.edu/~orosz/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Yisong Yue](http://www.yisongyue.com), [Joel W. Burdick](http://robotics.caltech.edu/wiki/index.php/JoelBurdick) \
 International Conference on Machine Learning (ICML), 2019.\
 [ArXiv](https://arxiv.org/abs/1905.05380) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1QVjGP_mquJu0unb4OU_zUFJKy50DS_FR/view?usp=sharing)
 
-4. *Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks*\
+5. *Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks*\
 Joshua J. Michalenko, Ameesh Shah, Abhinav Verma, [Richard G. Baraniuk](http://richb.blogs.rice.edu), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Ankit B. Patel](https://ankitlab.co) \
 International Conference on Learning Representations(ICLR), 2019.\
 [ArXiv](https://arxiv.org/abs/1902.10297)
 
-{% include googleDrivePlayer.html id=page.driveId1 %}
-5. *Programmatically Interpretable Reinforcement Learning*\
+6. *Programmatically Interpretable Reinforcement Learning* {% include googleDrivePlayer.html id=page.driveId1 %}\
 Abhinav Verma, [Vijayaraghavan Murali](https://research.fb.com/people/murali-vijayaraghavan/), [Rishabh Singh](https://rishabhmit.bitbucket.io), [Pushmeet Kohli](https://sites.google.com/site/pushmeet/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 International Conference on Machine Learning (ICML), 2018.\
 [ArXiv](https://arxiv.org/abs/1804.02477) &nbsp; &nbsp;  [Video](https://goo.gl/Z2X5x6)
