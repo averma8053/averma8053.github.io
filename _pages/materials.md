@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Application Materials"
-permalink: /statements/
+permalink: /materials/
 author_profile: true
 redirect_from: 
   - /job-materials/
@@ -13,15 +13,11 @@ I am currently applying for tenure-track faculty positions. I expect to graduate
 
 [CV](/files/CV.pdf){:target="_blank"}
 
-[Research Statement](/materials/Research.pdf){:target="_blank"}
+[Research Statement](/statements/Research.pdf){:target="_blank"}
 
-[Teaching Statement](/materials/Teaching.pdf)
+[Teaching Statement](/statements/Teaching.pdf){:target="_blank"}
 
-[Diversity Statement](/materials/Diversity.pdf)
+[Diversity Statement](/statements/Diversity.pdf){:target="_blank"}
 
-{% include image.html url="/materials/Rmap.png" description="Overview of my research around the theme of Trustworthy AI. Topics on the left and right leverage logical specifications and programmatic models, respectively. Foundational research problems are towards the bottom, and applications are towards the top." %}
+{% include image.html url="/statements/Rmap.png" description="Overview of my research around the theme of Trustworthy AI. Topics on the left and right leverage logical specifications and programmatic models, respectively. Foundational research problems are towards the bottom, and applications are towards the top." %}
 
-
-<a href="/materials/Teaching.pdf" target="_blank">Hello, world!</a>
-
-<a href="https://averma8053.github.io/materials/Teaching.pdf" target="_blank">Hello, world!</a>

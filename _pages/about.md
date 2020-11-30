@@ -4,7 +4,7 @@ title: ""
 excerpt: "About me"
 author_profile: true
 driveId1: 1s1pGcYUavpjBirwwwJnngkizuLkkAcL3/preview
-driveId2: 1a754cwK3qBUndmV_P_yBP1A7s1ez41R5/preview
+driveId2: 1QVjGP_mquJu0unb4OU_zUFJKy50DS_FR/preview
 driveId3: 1BRROPVoPmygeVGgj9KcO25ZhPRsHvtLC/preview
 redirect_from: 
   - /about/
@@ -12,7 +12,6 @@ redirect_from:
 ---
 
 I am a PhD Candidate in the Computer Science Department at the University of Texas at Austin. I am advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). I am generously supported by a [J.P. Morgan AI Research PhD Fellowship](https://www.jpmorgan.com/global/technology/ai/awards/phd-fellowship-award-recipients-2020).
-
 
 # Research Overview
 
