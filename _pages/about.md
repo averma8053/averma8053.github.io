@@ -18,11 +18,10 @@ I am currently applying for tenure-track faculty positions. My job application m
 # Research Overview
 
 My research combines ideas from formal methods and machine learning to efficiently build models that are reliable, transparent, and secure. This means that such a system can be expected to learn desirable behaviors with limited data, while provably maintaining some essential correctness invariant and generating models whose decisions can be understood by humans. I believe that we can achieve these goals via Neurosymbolic learning, which establishes connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
-<details><summary>[Read More]</summary>
-<p>
+<details>
+<summary>[Read More]</summary>
 
 Current machine learning models are dominated by Deep Neural Networks, because they are capable of leveraging gradient-based algorithms to optimize a specific objective. However, neural models are considered “black-boxes” and are often considered untrustworthy due to the following drawbacks:
-
 
 1. Hard to interpret: this makes these models hard to audit and debug.
 2. Hard to formally verify: due to the lack of abstractions in neural models they are often too large to verify for desirable behavior using automated reasoning tools.
@@ -31,7 +30,6 @@ Current machine learning models are dominated by Deep Neural Networks, because t
 
 My research focuses on addressing these four drawbacks simultaneously, and provides a promising path to discovering new algorithmic techniques leading to Trustworthy Artificial Intelligence.
 
-</p>
 </details>
 
 # Publications

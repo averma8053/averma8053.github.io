@@ -11,5 +11,5 @@ redirect_from:
 
 An overview of my research can be found here: [Link](https://drive.google.com/file/d/1Ve7nzVrXAmSjMvw2vNMjGebgGiQwvt0a/view?usp=sharing)
 
-{% include googleDrivePlayer.html id=page.driveId1 %}
+{% include gDrivePlayerBig.html id=page.driveId1 %}
 
