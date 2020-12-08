@@ -13,10 +13,13 @@ redirect_from:
 
 I am a PhD Candidate in the Computer Science Department at the University of Texas at Austin. I am advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). I am generously supported by a [J.P. Morgan AI Research PhD Fellowship](https://www.jpmorgan.com/global/technology/ai/awards/phd-fellowship-award-recipients-2020).
 
+I am currently applying for tenure-track faculty positions. My job application materials can be viewed at this [link](https://averma8053.github.io/materials/). A talk about my research is available [here](https://averma8053.github.io/talk/).
+
 # Research Overview
 
 My research combines ideas from formal methods and machine learning to efficiently build models that are reliable, transparent, and secure. This means that such a system can be expected to learn desirable behaviors with limited data, while provably maintaining some essential correctness invariant and generating models whose decisions can be understood by humans. I believe that we can achieve these goals via Neurosymbolic learning, which establishes connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
-
+<details><summary>[Read More]</summary>
+<p>
 
 Current machine learning models are dominated by Deep Neural Networks, because they are capable of leveraging gradient-based algorithms to optimize a specific objective. However, neural models are considered “black-boxes” and are often considered untrustworthy due to the following drawbacks:
 
@@ -28,34 +31,35 @@ Current machine learning models are dominated by Deep Neural Networks, because t
 
 My research focuses on addressing these four drawbacks simultaneously, and provides a promising path to discovering new algorithmic techniques leading to Trustworthy Artificial Intelligence.
 
-
+</p>
+</details>
 
 # Publications
 
 - *Neurosymbolic Reinforcement Learning with Formally Verified Exploration*\
-Greg Anderson, Abhinav Verma, [Isil Dillig](https://www.cs.utexas.edu/~isil/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
+[Greg Anderson](https://gavlegoat.github.io), Abhinav Verma, [Isil Dillig](https://www.cs.utexas.edu/~isil/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
-[ArXiv](https://arxiv.org/abs/2009.12612)
+[ArXiv](https://arxiv.org/abs/2009.12612) &nbsp; &nbsp; [Code](https://github.com/averma8053/safe-learning)
 
 - *Learning Differentiable Programs with Admissible Neural Heuristics*\
-Ameesh Shah, Eric Zhan, [Jennifer J Sun](http://jenjsun.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
+[Ameesh Shah](https://ameesh-shah.github.io), [Eric Zhan](https://ezhan94.github.io), [Jennifer J Sun](http://jenjsun.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
-[ArXiv](https://arxiv.org/abs/2007.12101)
+[ArXiv](https://arxiv.org/abs/2007.12101) &nbsp; &nbsp; [Code](https://github.com/averma8053/near)
 
 {% include googleDrivePlayer.html id=page.driveId3 %}
 - *Imitation-Projected Programmatic Reinforcement Learning*\
 Abhinav Verma, [Hoang M. Le](http://hoangle.info), [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2019.\
-[ArXiv](https://arxiv.org/abs/1907.05431)  &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1BRROPVoPmygeVGgj9KcO25ZhPRsHvtLC/view?usp=sharing)
+[ArXiv](https://arxiv.org/abs/1907.05431) &nbsp; &nbsp; [Code](https://bitbucket.org/averma8053/propel) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1BRROPVoPmygeVGgj9KcO25ZhPRsHvtLC/view?usp=sharing)
 
 {% include googleDrivePlayer.html id=page.driveId2 %}
 - *Control Regularization for Reduced Variance Reinforcement Learning*\
 [Richard Cheng](https://rcheng805.github.io), Abhinav Verma, [Gabor Orosz](http://www-personal.umich.edu/~orosz/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Yisong Yue](http://www.yisongyue.com), [Joel W. Burdick](http://robotics.caltech.edu/wiki/index.php/JoelBurdick) \
 International Conference on Machine Learning (ICML), 2019.\
-[ArXiv](https://arxiv.org/abs/1905.05380) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1QVjGP_mquJu0unb4OU_zUFJKy50DS_FR/view?usp=sharing)
+[ArXiv](https://arxiv.org/abs/1905.05380) &nbsp; &nbsp; [Code](https://github.com/averma8053/CORE-RL) &nbsp; &nbsp; [Video](https://drive.google.com/file/d/1QVjGP_mquJu0unb4OU_zUFJKy50DS_FR/view?usp=sharing)
 
 - *Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks*\
-Joshua J. Michalenko, Ameesh Shah, Abhinav Verma, [Richard G. Baraniuk](http://richb.blogs.rice.edu), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Ankit B. Patel](https://ankitlab.co) \
+Joshua J. Michalenko, [Ameesh Shah](https://ameesh-shah.github.io), Abhinav Verma, [Richard G. Baraniuk](http://richb.blogs.rice.edu), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Ankit B. Patel](https://ankitlab.co) \
 International Conference on Learning Representations(ICLR), 2019.\
 [ArXiv](https://arxiv.org/abs/1902.10297)
 
