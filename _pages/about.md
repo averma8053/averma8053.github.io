@@ -26,16 +26,18 @@ My research combines ideas from formal methods and machine learning to efficient
 
 Current machine learning models are dominated by Deep Neural Networks, because they are capable of leveraging gradient-based algorithms to optimize a specific objective. However, neural models are considered “black-boxes” and are often considered untrustworthy due to the following drawbacks:
 
-1. Hard to interpret: this makes these models hard to audit and debug.
-2. Hard to formally verify: due to the lack of abstractions in neural models they are often too large to verify for desirable behavior using automated reasoning tools.
-3. Unreliable: neural models have notoriously high levels of variability, to the extent that the random initialization of the weights can determine whether the learner finds a useful model.
-4. Lack of domain awareness: neural models lack the ability to bias the learner with commonsense knowledge about the task or environment.
+<ol>
+<li> Hard to interpret: this makes these models hard to audit and debug.</li>
+<li> Hard to formally verify: due to the lack of abstractions in neural models they are often too large to verify for desirable behavior using automated reasoning tools.</li>
+<li> Unreliable: neural models have notoriously high levels of variability, to the extent that the random initialization of the weights can determine whether the learner finds a useful model.</li>
+<li> Lack of domain awareness: neural models lack the ability to bias the learner with commonsense knowledge about the task or environment.</li>
+</ol>
 
 My research focuses on addressing these four drawbacks simultaneously, and provides a promising path to discovering new algorithmic techniques leading to Trustworthy Artificial Intelligence.
 
 </details>
 
-
+<br>
 
 # Publications
 
