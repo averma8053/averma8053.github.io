@@ -6,12 +6,13 @@ author_profile: true
 driveId1: 1s1pGcYUavpjBirwwwJnngkizuLkkAcL3/preview
 driveId2: 1QVjGP_mquJu0unb4OU_zUFJKy50DS_FR/preview
 driveId3: 1BRROPVoPmygeVGgj9KcO25ZhPRsHvtLC/preview
+driveId4: 1jxbCfPbw1FU2HDy_4v1Z0uwGWoHGqlSV/preview
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD Candidate in the Computer Science Department at the University of Texas at Austin. I am advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). I am generously supported by a [J.P. Morgan AI Research PhD Fellowship](https://www.jpmorgan.com/global/technology/ai/awards/phd-fellowship-award-recipients-2020).
+I am a PhD Candidate in the [Computer Science Department](https://www.cs.utexas.edu) at the University of Texas at Austin. I am advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). I am generously supported by a [J.P. Morgan AI Research PhD Fellowship](https://www.jpmorgan.com/global/technology/ai/awards/phd-fellowship-award-recipients-2020).
 
 I am currently applying for tenure-track faculty positions. My job application materials can be viewed at this [link](https://averma8053.github.io/materials/). A talk about my research is available [here](https://averma8053.github.io/talk/).
 
@@ -46,10 +47,11 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2009.12612) &nbsp; &nbsp; [Code](https://github.com/averma8053/safe-learning)
 
+{% include googleDrivePlayer.html id=page.driveId4 %}
 - *Learning Differentiable Programs with Admissible Neural Heuristics*\
 [Ameesh Shah](https://ameesh-shah.github.io), [Eric Zhan](https://ezhan94.github.io), [Jennifer J Sun](http://jenjsun.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
-[ArXiv](https://arxiv.org/abs/2007.12101) &nbsp; &nbsp; [Code](https://github.com/averma8053/near)
+[ArXiv](https://arxiv.org/abs/2007.12101) &nbsp; &nbsp; [Code](https://github.com/averma8053/near) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1jxbCfPbw1FU2HDy_4v1Z0uwGWoHGqlSV/view?usp=sharing)
 
 {% include googleDrivePlayer.html id=page.driveId3 %}
 - *Imitation-Projected Programmatic Reinforcement Learning*\
