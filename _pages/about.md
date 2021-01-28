@@ -47,17 +47,19 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2009.12612) &nbsp; &nbsp; [Code](https://github.com/averma8053/safe-learning)
 
-{% include googleDrivePlayer.html id=page.driveId4 %}
 - **Learning Differentiable Programs with Admissible Neural Heuristics**\
 [Ameesh Shah](https://ameesh-shah.github.io), [Eric Zhan](https://ezhan94.github.io), [Jennifer J Sun](http://jenjsun.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2007.12101) &nbsp; &nbsp; [Code](https://github.com/averma8053/near) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1jxbCfPbw1FU2HDy_4v1Z0uwGWoHGqlSV/view?usp=sharing)
+{% include googleDrivePlayer.html id=page.driveId4 %}
 
-{% include googleDrivePlayer.html id=page.driveId3 %}
+
 - **Imitation-Projected Programmatic Reinforcement Learning**\
 Abhinav Verma, [Hoang M. Le](http://hoangle.info), [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2019.\
 [ArXiv](https://arxiv.org/abs/1907.05431) &nbsp; &nbsp; [Code](https://bitbucket.org/averma8053/propel) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1BRROPVoPmygeVGgj9KcO25ZhPRsHvtLC/view?usp=sharing)
+{% include googleDrivePlayer.html id=page.driveId3 %}
+
 
 {% include googleDrivePlayer.html id=page.driveId2 %}
 - **Control Regularization for Reduced Variance Reinforcement Learning**\
