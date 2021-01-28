@@ -42,36 +42,36 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 
 # Publications
 
-- *Neurosymbolic Reinforcement Learning with Formally Verified Exploration*\
+- **Neurosymbolic Reinforcement Learning with Formally Verified Exploration**\
 [Greg Anderson](https://gavlegoat.github.io), Abhinav Verma, [Isil Dillig](https://www.cs.utexas.edu/~isil/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2009.12612) &nbsp; &nbsp; [Code](https://github.com/averma8053/safe-learning)
 
 {% include googleDrivePlayer.html id=page.driveId4 %}
-- *Learning Differentiable Programs with Admissible Neural Heuristics*\
+- **Learning Differentiable Programs with Admissible Neural Heuristics**\
 [Ameesh Shah](https://ameesh-shah.github.io), [Eric Zhan](https://ezhan94.github.io), [Jennifer J Sun](http://jenjsun.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2007.12101) &nbsp; &nbsp; [Code](https://github.com/averma8053/near) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1jxbCfPbw1FU2HDy_4v1Z0uwGWoHGqlSV/view?usp=sharing)
 
 {% include googleDrivePlayer.html id=page.driveId3 %}
-- *Imitation-Projected Programmatic Reinforcement Learning*\
+- **Imitation-Projected Programmatic Reinforcement Learning**\
 Abhinav Verma, [Hoang M. Le](http://hoangle.info), [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2019.\
 [ArXiv](https://arxiv.org/abs/1907.05431) &nbsp; &nbsp; [Code](https://bitbucket.org/averma8053/propel) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1BRROPVoPmygeVGgj9KcO25ZhPRsHvtLC/view?usp=sharing)
 
 {% include googleDrivePlayer.html id=page.driveId2 %}
-- *Control Regularization for Reduced Variance Reinforcement Learning*\
+- **Control Regularization for Reduced Variance Reinforcement Learning**\
 [Richard Cheng](https://rcheng805.github.io), Abhinav Verma, [Gabor Orosz](http://www-personal.umich.edu/~orosz/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Yisong Yue](http://www.yisongyue.com), [Joel W. Burdick](http://robotics.caltech.edu/wiki/index.php/JoelBurdick) \
 International Conference on Machine Learning (ICML), 2019.\
 [ArXiv](https://arxiv.org/abs/1905.05380) &nbsp; &nbsp; [Code](https://github.com/averma8053/CORE-RL) &nbsp; &nbsp; [Video](https://drive.google.com/file/d/1QVjGP_mquJu0unb4OU_zUFJKy50DS_FR/view?usp=sharing)
 
-- *Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks*\
+- **Representing Formal Languages: A Comparison Between Finite Automata and Recurrent Neural Networks**\
 Joshua J. Michalenko, [Ameesh Shah](https://ameesh-shah.github.io), Abhinav Verma, [Richard G. Baraniuk](http://richb.blogs.rice.edu), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Ankit B. Patel](https://ankitlab.co) \
 International Conference on Learning Representations(ICLR), 2019.\
 [ArXiv](https://arxiv.org/abs/1902.10297)
 
 {% include googleDrivePlayer.html id=page.driveId1 %}
-- *Programmatically Interpretable Reinforcement Learning*\
+- **Programmatically Interpretable Reinforcement Learning**\
 Abhinav Verma, [Vijayaraghavan Murali](https://research.fb.com/people/murali-vijayaraghavan/), [Rishabh Singh](https://rishabhmit.bitbucket.io), [Pushmeet Kohli](https://sites.google.com/site/pushmeet/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 International Conference on Machine Learning (ICML), 2018.\
 [ArXiv](https://arxiv.org/abs/1804.02477) &nbsp; &nbsp;  [Video](https://goo.gl/Z2X5x6)
