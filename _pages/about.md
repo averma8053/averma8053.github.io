@@ -48,10 +48,11 @@ Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2009.12612) &nbsp; &nbsp; [Code](https://github.com/averma8053/safe-learning)
 
 - **Learning Differentiable Programs with Admissible Neural Heuristics**\
+{% include googleDrivePlayer.html id=page.driveId4 %}\
 [Ameesh Shah](https://ameesh-shah.github.io), [Eric Zhan](https://ezhan94.github.io), [Jennifer J Sun](http://jenjsun.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
 [ArXiv](https://arxiv.org/abs/2007.12101) &nbsp; &nbsp; [Code](https://github.com/averma8053/near) &nbsp; &nbsp;  [Video](https://drive.google.com/file/d/1jxbCfPbw1FU2HDy_4v1Z0uwGWoHGqlSV/view?usp=sharing)
-{% include googleDrivePlayer.html id=page.driveId4 %}
+
 
 
 - **Imitation-Projected Programmatic Reinforcement Learning**\
