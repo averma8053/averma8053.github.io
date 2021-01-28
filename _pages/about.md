@@ -83,8 +83,8 @@ International Conference on Learning Representations(ICLR), 2019.\
 - **Programmatically Interpretable Reinforcement Learning**\
 Abhinav Verma, [Vijayaraghavan Murali](https://research.fb.com/people/murali-vijayaraghavan/), [Rishabh Singh](https://rishabhmit.bitbucket.io), [Pushmeet Kohli](https://sites.google.com/site/pushmeet/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 International Conference on Machine Learning (ICML), 2018.\
-[ArXiv](https://arxiv.org/abs/1804.02477) &nbsp; &nbsp;  [Video](https://goo.gl/Z2X5x6)
-{% include googleDrivePlayer.html id=page.driveId1 %}
+[ArXiv](https://arxiv.org/abs/1804.02477) &nbsp; &nbsp;  [Video](https://goo.gl/Z2X5x6)\
+&nbsp; &nbsp; {% include googleDrivePlayer.html id=page.driveId1 %}
 
 &nbsp;
 
