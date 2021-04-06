@@ -14,8 +14,6 @@ redirect_from:
 
 I am a PhD Candidate in the [Computer Science Department](https://www.cs.utexas.edu) at the University of Texas at Austin. I am advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). I am generously supported by a [J.P. Morgan AI Research PhD Fellowship](https://www.jpmorgan.com/global/technology/ai/awards/phd-fellowship-award-recipients-2020).
 
-I am currently applying for tenure-track faculty positions. My job application materials can be viewed at this [link](https://averma8053.github.io/materials/). A talk about my research is available [here](https://averma8053.github.io/talk/).
-
 # Research Overview
 
 My research combines ideas from formal methods and machine learning to efficiently build models that are reliable, transparent, and secure. This means that such a system can be expected to learn desirable behaviors with limited data, while provably maintaining some essential correctness invariant and generating models whose decisions can be understood by humans. I believe that we can achieve these goals via Neurosymbolic learning, which establishes connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
