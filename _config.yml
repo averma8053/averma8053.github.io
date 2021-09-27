@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Abhinav Verma"
   avatar           : "Verma.jpeg"
-  bio              : "Graduate Student working on Assured Autonomy"
+  bio              : "Postdoc working on Assured Autonomy"
   location         :
-  employer         : "University of Texas, Austin"
+  employer         : "IST Austria"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jM1HeCIAAAAJ"
   email            : "verma@utexas.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "averma8053"
+  github           : #"averma8053"
   google_plus      :
   keybase          :
   instagram        :

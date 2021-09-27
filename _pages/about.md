@@ -12,11 +12,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Computer Science Department](https://www.cs.utexas.edu) at the University of Texas at Austin. I am advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). I am generously supported by a [J.P. Morgan AI Research PhD Fellowship](https://www.jpmorgan.com/global/technology/ai/awards/phd-fellowship-award-recipients-2020).
+I am a postdoc at the Institute of Science and Technology (IST) Austria in the [Henzinger Group](http://pub.ist.ac.at/group_henzinger/). In fall 2022 I will be joining the [Department of Computer Science and Engineering](https://www.eecs.psu.edu) at the Pennsylvania State University as a Hartz Family Career Development Assistant Professor. Before joining IST I completed my PhD from the University of Texas at Austin advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research lies at the intersection of machine learning and formal methods, with a focus on building intelligent systems that are reliable, transparent, and secure. This work builds connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
 
 # Research Overview
 
-My research combines ideas from formal methods and machine learning to efficiently build models that are reliable, transparent, and secure. This means that such a system can be expected to learn desirable behaviors with limited data, while provably maintaining some essential correctness invariant and generating models whose decisions can be understood by humans. I believe that we can achieve these goals via Neurosymbolic learning, which establishes connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
+My research combines ideas from formal methods and machine learning to efficiently build models that are reliable, transparent, and secure. This means that such a system can be expected to learn desirable behaviors with limited data, while provably maintaining some essential correctness invariant and generating models whose decisions can be understood by humans. I believe that we can achieve these goals via Neurosymbolic learning.
 
 <details>
 
