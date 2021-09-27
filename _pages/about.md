@@ -12,7 +12,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at the Institute of Science and Technology (IST) Austria in the [Henzinger Group](http://pub.ist.ac.at/group_henzinger/). In fall 2022 I will be joining the [Department of Computer Science and Engineering](https://www.eecs.psu.edu) at the Pennsylvania State University as a Hartz Family Career Development Assistant Professor. Before joining IST I completed my PhD from the University of Texas at Austin advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research lies at the intersection of machine learning and formal methods, with a focus on building intelligent systems that are reliable, transparent, and secure. This work builds connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
+I am a postdoc at the Institute of Science and Technology (IST) Austria in the [Henzinger Group](http://pub.ist.ac.at/group_henzinger/). In fall 2022 I will be joining the [Department of Computer Science and Engineering](https://www.eecs.psu.edu) at the Pennsylvania State University as a Hartz Family Career Development Assistant Professor. Before joining IST, I completed my PhD from the University of Texas at Austin advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research lies at the intersection of machine learning and formal methods, with a focus on building intelligent systems that are reliable, transparent, and secure. This work builds connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
 
 # Research Overview
 
