@@ -11,7 +11,7 @@ redirect_from:
 I am currently applying for tenure-track faculty positions. I expect to graduate in Spring 2021. This page contains my application materials and a pictorial overview of my research.
 
 
-[CV](/files/CV.pdf){:target="_blank"}
+[CV](/files/VermaCV.pdf){:target="_blank"}
 
 [Research Statement](/statements/Research.pdf){:target="_blank"}
 
