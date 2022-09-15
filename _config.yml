@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abhinav Verma"
 title_separator          : "-"
 name                     : &name "Abhinav Verma"
-description              : &description "Graduate Student at University of Texas, Austin"
+description              : &description "Assistant Professor at The Pennsylvania State University"
 url                      : https://averma8053.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "averma8053/averma8053.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abhinav Verma"
   avatar           : "Verma.jpeg"
-  bio              : "Postdoc working on Assured Autonomy"
+  bio              : "Hartz Family Career Development Assistant Professor"
   location         :
-  employer         : "IST Austria"
+  employer         : "Penn State"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jM1HeCIAAAAJ"
-  email            : "verma@utexas.edu"
+  email            : "verma@psu.edu"
   researchgate     :
   uri              :
   bitbucket        :

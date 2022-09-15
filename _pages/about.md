@@ -12,7 +12,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at the Institute of Science and Technology (IST) Austria in the [Henzinger Group](http://pub.ist.ac.at/group_henzinger/). In fall 2022 I will be joining the [Department of Computer Science and Engineering](https://www.eecs.psu.edu) at the Pennsylvania State University as a Hartz Family Career Development Assistant Professor. Before joining IST, I completed my PhD from the University of Texas at Austin advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research lies at the intersection of machine learning and formal methods, with a focus on building intelligent systems that are reliable, transparent, and secure. This work builds connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
+I am a Hartz Family Career Development Assistant Professor in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu) at The Pennsylvania State University. Previously, I was a postdoc at the Institute of Science and Technology (IST) Austria in the [Henzinger Group](http://pub.ist.ac.at/group_henzinger/). Before joining IST, I completed my PhD from the University of Texas at Austin advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research lies at the intersection of machine learning and formal methods, with a focus on building intelligent systems that are reliable, transparent, and secure. This work builds connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
 
 # Research Overview
 
@@ -80,36 +80,11 @@ International Conference on Machine Learning (ICML), 2018.\
 
 &nbsp;
 
+# PhD Thesis
+[Programmatic Reinforcement Learning](/files/AbhinavVermaThesis.pdf)
+
+
 # Teaching
 
-### Standalone Instructor
-* Math 105: University Mathematics.\
-        Introduction to logic, combinatorics, and probability. Core requirement for BS degree.
-
-- Math 111: College Algebra.\
-Foundational course in algebra, functions, and mathematical modeling. Calculus preparation course, prerequisite for higher-level math courses.
-
-- Math 112: Elementary Functions.\
-Focus on mathematical induction and trigonometric functions. Precalculus designed for math, biology, physiology, and CS majors.
-
-
-
-
-
-
-### Teaching Assistant
-
-- COMP 539: Software Engineering Methodology.\
-Project based graduate course on software engineering.
-
-- COMP 503: Reasoning About Software.\
-Graduate course on formal methods and automated reasoning.
-
-- COMP 310: Advanced Object-Oriented Programming and Design.\
-Senior undergraduate course on OOP.
-
-- Math 243: Introduction to Probability and Statistics.\
-Undergraduate course on statistical reasoning.
-
-- M01: Introduction to Mathematical Thinking.\
-First course on abstract mathematics.
+- (Fall 2022) CSE 597: Neurosymbolic Learning
+- (Spring 2023) CMPSC 448: Machine Learning and Algorithmic AI
