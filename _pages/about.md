@@ -40,6 +40,12 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 
 # Publications
 
+- **Eventual Discounting Temporal Logic Counterfactual Experience Replay**\
+[Cameron Voloshin](https://www.clvoloshin.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com) \
+International Conference on Machine Learning (ICML), 2023.\
+[ArXiv](https://arxiv.org/abs/2303.02135) 
+
+
 - **Neurosymbolic Reinforcement Learning with Formally Verified Exploration**\
 [Greg Anderson](https://gavlegoat.github.io), Abhinav Verma, [Isil Dillig](https://www.cs.utexas.edu/~isil/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
