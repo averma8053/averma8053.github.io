@@ -40,6 +40,29 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 
 # Publications
 
+- **RetroMoE: A Mixture-of-Experts Latent Translation Framework for Single-step Retrosynthesis**\
+Xinjie Li, Abhinav Verma \
+International Joint Conference on Artificial Intelligence (IJCAI), 2025.
+
+
+- **LTL-Constrained Policy Optimization with Cycle Experience Replay**\
+[Ameesh Shah](https://ameesh-shah.github.io), [Cameron Voloshin](https://www.clvoloshin.com), [Chenxi Yang](https://chenxi-yang.github.io), Abhinav Verma, [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/), [Sanjit A. Seshia](https://people.eecs.berkeley.edu/~sseshia/) \
+Transactions on Machine Learning Research (TMLR), 2025.\
+[ArXiv](https://arxiv.org/abs/2404.11578) 
+
+
+- **Compositional Policy Learning in Stochastic Control Systems with Formal Guarantees**\
+Đorđe Žikelić, Mathias Lechner, Abhinav Verma, Krishnendu Chatterjee, Thomas Henzinger\
+Advances in Neural Information Processing Systems (NeurIPS), 2023.\
+[ArXiv](https://arxiv.org/abs/2312.01456) 
+
+
+- **Eventual Discounting Temporal Logic Counterfactual Experience Replay**\
+[Cameron Voloshin](https://www.clvoloshin.com), Abhinav Verma, [Yisong Yue](http://www.yisongyue.com) \
+International Conference on Machine Learning (ICML), 2023.\
+[ArXiv](https://arxiv.org/abs/2303.02135) 
+
+
 - **Neurosymbolic Reinforcement Learning with Formally Verified Exploration**\
 [Greg Anderson](https://gavlegoat.github.io), Abhinav Verma, [Isil Dillig](https://www.cs.utexas.edu/~isil/), [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/) \
 Conference on Neural Information Processing Systems (NeurIPS), 2020.\
@@ -86,34 +109,5 @@ International Conference on Machine Learning (ICML), 2018.\
 
 # Teaching
 
-### Standalone Instructor
-- Math 105: University Mathematics.\
-        Introduction to logic, combinatorics, and probability. Core requirement for BS degree.
-
-- Math 111: College Algebra.\
-Foundational course in algebra, functions, and mathematical modeling. Calculus preparation course, prerequisite for higher-level math courses.
-
-- Math 112: Elementary Functions.\
-Focus on mathematical induction and trigonometric functions. Precalculus designed for math, biology, physiology, and CS majors.
-
-
-
-
-
-
-### Teaching Assistant
-
-- COMP 539: Software Engineering Methodology.\
-Project based graduate course on software engineering.
-
-- COMP 503: Reasoning About Software.\
-Graduate course on formal methods and automated reasoning.
-
-- COMP 310: Advanced Object-Oriented Programming and Design.\
-Senior undergraduate course on OOP.
-
-- Math 243: Introduction to Probability and Statistics.\
-Undergraduate course on statistical reasoning.
-
-- M01: Introduction to Mathematical Thinking.\
-First course on abstract mathematics. 
+- (Fall 2022, 2024) CSE 597: Neurosymbolic Learning
+- (Spring 2023, 2024) CMPSC 448: Machine Learning and Algorithmic AI
