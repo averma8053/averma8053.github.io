@@ -41,11 +41,11 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 # Selected Publications
 
 - **Robust Adaptive Multi-Step Predictive Shielding**\
-Tanmay Ambadkar, Darshan Chudiwal, Greg Anderson, Abhinav Verma \
+[Tanmay Ambadkar](https://ambadkar.com), Darshan Chudiwal, [Greg Anderson](https://gavlegoat.github.io), Abhinav Verma \
 International Conference on Learning Representations (ICLR), 2026.
 
 - **Automating the Refinement of Reinforcement Learning Specifications**\
-Tanmay Ambadkar, Dorde Zikelic, Abhinav Verma \
+[Tanmay Ambadkar](https://ambadkar.com), [Dorde Zikelic](https://djordjezikelic.github.io), Abhinav Verma \
 International Conference on Learning Representations (ICLR), 2026.
 
 
