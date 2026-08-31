@@ -38,7 +38,16 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 
 <br>
 
-# Publications
+# Selected Publications
+
+- **Robust Adaptive Multi-Step Predictive Shielding**\
+Tanmay Ambadkar, Darshan Chudiwal, Greg Anderson, Abhinav Verma \
+International Conference on Learning Representations (ICLR), 2026.
+
+- **Automating the Refinement of Reinforcement Learning Specifications**\
+Tanmay Ambadkar, Dorde Zikelic, Abhinav Verma \
+International Conference on Learning Representations (ICLR), 2026.
+
 
 - **RetroMoE: A Mixture-of-Experts Latent Translation Framework for Single-step Retrosynthesis**\
 Xinjie Li, Abhinav Verma \
