@@ -12,7 +12,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu) at The Pennsylvania State University. Previously, I was a postdoc at the Institute of Science and Technology (IST) Austria in the [Henzinger Group](http://pub.ist.ac.at/group_henzinger/). Before joining IST, I completed my PhD from the University of Texas at Austin advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). My research lies at the intersection of machine learning and formal methods, with a focus on building intelligent systems that are reliable, transparent, and secure. This work builds connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence.
+I am an Assistant Professor in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu) at The Pennsylvania State University where I lead the [Neurosymbolic AI Lab](https://sites.psu.edu/neurosymbolic/). My research lies at the intersection of machine learning and formal methods, with a focus on building intelligent systems that are reliable, transparent, and secure. This work builds connections between the symbolic reasoning and inductive learning paradigms of artificial intelligence. Previously, I was a postdoc at the Institute of Science and Technology (IST) Austria in the [Henzinger Group](http://pub.ist.ac.at/group_henzinger/). Before joining IST, I completed my PhD from the University of Texas at Austin advised by [Prof. Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/).
 
 # Research Overview
 
@@ -39,6 +39,10 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 <br>
 
 # Selected Publications
+
+- **Robust Adaptive Multi-Step Predictive Shielding**\
+[Tanmay Ambadkar](https://ambadkar.com), [Sourav Panda](https://souravpanda.com/), Shreyash Kale, [Jonathan Dodge](https://faculty.ist.psu.edu/jxd6067/), Abhinav Verma \
+Neural Information Processing Systems (NeurIPS), 2026.
 
 - **Robust Adaptive Multi-Step Predictive Shielding**\
 [Tanmay Ambadkar](https://ambadkar.com), Darshan Chudiwal, [Greg Anderson](https://gavlegoat.github.io), Abhinav Verma \
