@@ -44,6 +44,10 @@ My research focuses on addressing these four drawbacks simultaneously, and provi
 [Tanmay Ambadkar](https://ambadkar.com), [Sourav Panda](https://souravpanda.com/), Shreyash Kale, [Jonathan Dodge](https://faculty.ist.psu.edu/jxd6067/), Abhinav Verma \
 Neural Information Processing Systems (NeurIPS), 2026.
 
+- **Explanations for Sequential Decision-Making–an Overview**\
+[Hendrik Baier](https://www.hendrikbaier.com/), [Mark T Keane](https://people.ucd.ie/mark.keane), [Sarath Sreedharan](https://sarathsreedharan.com/), [Silvia Tulli](https://silviatulli.com/), Abhinav Verma \
+AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
 - **Robust Adaptive Multi-Step Predictive Shielding**\
 [Tanmay Ambadkar](https://ambadkar.com), Darshan Chudiwal, [Greg Anderson](https://gavlegoat.github.io), Abhinav Verma \
 International Conference on Learning Representations (ICLR), 2026.
