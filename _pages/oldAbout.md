@@ -124,3 +124,6 @@ International Conference on Machine Learning (ICML), 2018.\
 - (Fall 2022, 2024) CSE 597: Neurosymbolic Learning
 - (Spring 2023, 2024) CMPSC 448: Machine Learning and Algorithmic AI
 - (Fall 2027) CMPSC 461: Programming Language Concepts
+
+# Funding
+[U.S. Army Research Office (ARO)](https://arl.devcom.army.mil/who-we-are/aro/) 
